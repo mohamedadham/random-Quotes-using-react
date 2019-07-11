@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/random-Quotes-using-react/static/js/main.747b7a8e.chunk.js",
-    "main.js.map": "/random-Quotes-using-react/static/js/main.747b7a8e.chunk.js.map",
+    "main.js": "/random-Quotes-using-react/static/js/main.f9433055.chunk.js",
+    "main.js.map": "/random-Quotes-using-react/static/js/main.f9433055.chunk.js.map",
     "runtime~main.js": "/random-Quotes-using-react/static/js/runtime~main.0a2c4704.js",
     "runtime~main.js.map": "/random-Quotes-using-react/static/js/runtime~main.0a2c4704.js.map",
     "static/js/2.65aa1cca.chunk.js": "/random-Quotes-using-react/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/random-Quotes-using-react/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/random-Quotes-using-react/index.html",
-    "precache-manifest.7c3835dfdb21ad7b090fb19d64d09245.js": "/random-Quotes-using-react/precache-manifest.7c3835dfdb21ad7b090fb19d64d09245.js",
+    "precache-manifest.5f3f3649328cc809881e611aa0af609e.js": "/random-Quotes-using-react/precache-manifest.5f3f3649328cc809881e611aa0af609e.js",
     "service-worker.js": "/random-Quotes-using-react/service-worker.js"
   }
 }
